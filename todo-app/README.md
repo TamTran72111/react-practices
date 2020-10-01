@@ -1,3 +1,11 @@
+# Introduction
+
+This project is a react practice by following a [tutorial](https://www.youtube.com/watch?v=VqgTr-nd7Cg) of the youtuber [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+
+The app is deployed at [https://todo-app-react-practise.web.app/](https://todo-app-react-practise.web.app/) by using [Firebase](https://firebase.google.com/)
+
+# Configuration
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
