@@ -1,0 +1,12 @@
+.todo__icon {
+  color: rgb(103, 165, 223);
+}
+.todo__icon:hover {
+  cursor: pointer;
+}
+@media only screen and (min-width: 650px) {
+  li.todo__item {
+    width: 650px;
+    margin: auto;
+  }
+}
