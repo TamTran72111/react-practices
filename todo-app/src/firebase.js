@@ -5,13 +5,13 @@ dotenv.config();
 
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_APIKEY,
-  authDomain: "todo-app-13110.firebaseapp.com",
-  databaseURL: "https://todo-app-13110.firebaseio.com",
-  projectId: "todo-app-13110",
-  storageBucket: "todo-app-13110.appspot.com",
-  messagingSenderId: "579848659445",
+  authDomain: "todo-app-react-practise.firebaseapp.com",
+  databaseURL: "https://todo-app-react-practise.firebaseio.com",
+  projectId: "todo-app-react-practise",
+  storageBucket: "todo-app-react-practise.appspot.com",
+  messagingSenderId: "82311052736",
   appId: process.env.FIREBASE_APPID,
-  measurementId: "G-YNF3LN0RX3",
+  measurementId: "G-YRYFH4P6CS",
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
