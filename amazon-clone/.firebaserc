@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "react-practice-projects"
+  },
+  "targets": {
+    "react-practice-projects": {
+      "hosting": {
+        "amazon-clone": [
+          "amz-clone-react-practice"
+        ]
+      }
+    }
+  }
+}
