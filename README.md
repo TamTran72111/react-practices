@@ -6,12 +6,12 @@ Those projects are done by following the tutorials from the youtuber [Clever Pro
 
 # Projects
 
-[Todo app](https://github.com/TamTran72111/react-practices/todo-app)
+[Todo app](https://github.com/TamTran72111/react-practices/tree/master/todo-app)
 
-[Messenger Clone](https://github.com/TamTran72111/react-practices/facebook-messenger-clone)
+[Messenger Clone](https://github.com/TamTran72111/react-practices/tree/master/facebook-messenger-clone)
 
-[Instagram Clone](https://github.com/TamTran72111/react-practices/instagram-clone)
+[Instagram Clone](https://github.com/TamTran72111/react-practices/tree/master/instagram-clone)
 
-[Netflix Clone](https://github.com/TamTran72111/react-practices/netflix-clone)
+[Netflix Clone](https://github.com/TamTran72111/react-practices/tree/master/netflix-clone)
 
-[Amazon Clone](https://github.com/TamTran72111/react-practices/amazon-clone)
+[Amazon Clone](https://github.com/TamTran72111/react-practices/tree/master/amazon-clone)
