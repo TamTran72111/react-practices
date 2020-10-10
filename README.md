@@ -10,8 +10,8 @@ Those projects are done by following the tutorials from the youtuber [Clever Pro
 
 [Messenger Clone](https://github.com/TamTran72111/react-practices/facebook-messenger-clone)
 
-[Instagram Clone](https://github.com/TamTran72111/react-practicesinstagram-clone)
-
 [Instagram Clone](https://github.com/TamTran72111/react-practices/instagram-clone)
+
+[Netflix Clone](https://github.com/TamTran72111/react-practices/netflix-clone)
 
 [Amazon Clone](https://github.com/TamTran72111/react-practices/amazon-clone)
