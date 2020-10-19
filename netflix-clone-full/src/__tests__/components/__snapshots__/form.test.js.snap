@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> renders the <Form /> with an error 1`] = `
+<div
+  class="form__Container-sc-1kh0rj0-0 gMFBIT"
+>
+  <div
+    class="form__Error-sc-1kh0rj0-1 cxQOjU"
+  >
+    Your email address is already being used
+  </div>
+  <button
+    class="form__Submit-sc-1kh0rj0-8 kQUHKo"
+    type="submit"
+  >
+    Sign In
+  </button>
+</div>
+`;
+
+exports[`<Form /> renders the <Form /> with populated data 1`] = `
+<div
+  class="form__Container-sc-1kh0rj0-0 gMFBIT"
+>
+  <h1
+    class="form__Title-sc-1kh0rj0-3 hWoBJ"
+  >
+    Sign In Now
+  </h1>
+  <form
+    class="form__Base-sc-1kh0rj0-2 gaJMKK"
+  >
+    <input
+      class="form__Input-sc-1kh0rj0-7 iPSRUr"
+      placeholder="Email address"
+    />
+    <input
+      class="form__Input-sc-1kh0rj0-7 iPSRUr"
+      placeholder="Password"
+      type="password"
+    />
+    <button
+      class="form__Submit-sc-1kh0rj0-8 kQUHKo"
+      disabled=""
+      type="submit"
+    >
+      Sign In
+    </button>
+  </form>
+  <p
+    class="form__Text-sc-1kh0rj0-4 hTDFLA"
+  >
+    New to Netflix? 
+  </p>
+  <p
+    class="form__TextSmall-sc-1kh0rj0-5 bjoHnk"
+  >
+    This page is protected by Google reCAPTCHA to ensure you're not a bot. Learn more.
+  </p>
+</div>
+`;
