@@ -1,3 +1,11 @@
+# Introduction
+
+This project is a react practice by following a [tutorial](https://www.youtube.com/watch?v=b7nrXjS6Dqs) of the youtuber [Sonny Sangha](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA)
+
+The app is deployed at [https://react-gml-clone.web.app/](https://react-gml-clone.web.app/) by using [Firebase](https://firebase.google.com/)
+
+# Configuration
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts

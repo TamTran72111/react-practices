@@ -18,6 +18,8 @@ Those projects are done by following the tutorials on Youtube.
 
 [Amazon Clone](https://github.com/TamTran72111/react-practices/tree/master/amazon-clone)
 
+[Gmail Clone](https://github.com/TamTran72111/react-practices/tree/master/gmail-clone)
+
 ## Others
 
 [Netflix Clone Full](https://github.com/TamTran72111/react-practices/tree/master/netflix-clone-full)
